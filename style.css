@@ -49,7 +49,7 @@ body {
     position: absolute;
     width: 110px;
     height: 100%;
-    background-image: linear-gradient(to right, #023e8a, #caf0f8);
+    background: #00b4d8;
     border-radius: 30px;
     transition: .5s;
 }
